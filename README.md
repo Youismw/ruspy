@@ -1,5 +1,6 @@
 # ruspy
 A rust-inspired memory safe Python compiler that ensures strict safety guarantees while maintaining python's flexibility,  get the features of rust without having to learn it , simplicity of python safety of rust 
+
 Objectives -
 1. memory saftey - Prevents segmentation faults , null pointer errors and unsafe memory access.
 2. Thread safety - Implements strict concurrency checks to avoid race conditions
@@ -10,8 +11,11 @@ Objectives -
 7. Licensed under Apache 2.0 contributions welcome.
 
 why this project exixts - 
+
 a. To make safer alternative to CPython
+
 B. Offers safety benifits without needing to rewrite code in rust
+
 c. Compiled execution is faster than Pythons interpreted runtime 
 
 Intrested in contributing ? check out our issues , submit PRs , or join discussion in the community tab
